@@ -1,3 +1,7 @@
+/**
+ * @brief This is erase function and it will delete the records.
+ * 
+ */
 void erase()
 {
     FILE *old,*newrec;

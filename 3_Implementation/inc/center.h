@@ -1,3 +1,8 @@
+/**
+ * @brief Get the Column Width object
+ * @note This find the center of the screen
+ * @return int 
+ */
 int GetColumnWidth()
 {
     CONSOLE_SCREEN_BUFFER_INFO info;

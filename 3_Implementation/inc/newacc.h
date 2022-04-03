@@ -1,3 +1,7 @@
+/**
+ * @brief This is file is to be create the new Bank account for customer.
+ * 
+ */
 void new_acc()
 {
     int i=0;

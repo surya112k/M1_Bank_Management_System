@@ -1,3 +1,7 @@
+/**
+ * @brief This is close funtion and termination of the code.
+ * 
+ */
 void close()
 {
     system("cls");

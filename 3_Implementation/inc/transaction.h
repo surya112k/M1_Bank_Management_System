@@ -1,3 +1,7 @@
+/**
+ * @brief This functions shows the transaction of the customer.
+ * 
+ */
 void transact()
 {   
     int choice,test=0;

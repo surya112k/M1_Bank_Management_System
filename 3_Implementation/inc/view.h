@@ -1,3 +1,7 @@
+/**
+ *@brief This function is view_list and this just the what are the accounts list are there in the records.
+ * 
+ */
 void view_list()
 {
     FILE *view;

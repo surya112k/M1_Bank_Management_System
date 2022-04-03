@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @author Surya
- * @brief Bank Management Software
+ * @brief Bank Management System
  * @version 0.1
  * @date 2022-04-01
  * 

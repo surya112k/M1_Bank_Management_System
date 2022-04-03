@@ -1,3 +1,11 @@
+/**
+ * @brief This function is to calculate the simple interest of the customer.
+ * 
+ * @param t 
+ * @param amount 
+ * @param rate 
+ * @return float 
+ */
 float interest(float t,float amount,int rate)
 {
     float SI;
@@ -6,6 +14,10 @@ float interest(float t,float amount,int rate)
 
 }
 
+/**
+ * @brief This function just see the what are the accounts are there in the records.
+ * 
+ */
 void see()
 {
     FILE *ptr;

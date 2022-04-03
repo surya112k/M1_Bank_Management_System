@@ -1,3 +1,7 @@
+/**
+ * @brief This is menu file and it contains the options of what are the function are in this application.
+ * @note Simply it called as navigationer.
+ */
 void new_acc();
 void edit();
 void transact();
@@ -10,7 +14,7 @@ void delay();
 void menu()
 {
     system("cls");
-    printf("\n\n\n\n\n\t\t\tCUSTOMER ACCOUNT BANKING MANAGEMENT SYSTEM");
+    printf("\n\n\n\n\n\n\n\n\t\t\tBANK MANAGEMENT SYSTEM");
     printf("\n\n\n\t\t\t\xB2\xB2\xB2\xB2\xB2\xB2\xB2 WELCOME TO THE MAIN MENU \xB2\xB2\xB2\xB2\xB2\xB2\xB2");
     printf("\n\n\n\n\t\t\t\t1.Create new account\n\t\t\t\t2.Update information of existing account\n\t\t\t\t3.For transactions\n\t\t\t\t4.Check the details of existing account\n\t\t\t\t5.Removing existing account\n\t\t\t\t6.View customer's list\n\t\t\t\t7.Exit\n\n\n\t\t\t\t\t Enter your choice:");
     scanf("%d",&choice);
